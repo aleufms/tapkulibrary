@@ -43,4 +43,6 @@
  */
 - (void) updateTableOffset:(BOOL)animated;
 
+@property (nonatomic) NSInteger bottomSpace;
+
 @end
